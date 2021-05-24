@@ -1,0 +1,6 @@
+Generatore di figure di Lissajous in due dimensioni.
+
+Francesco Sollazzi 3A
+
+inizio: 26/11/19
+fine:   05/12/19
